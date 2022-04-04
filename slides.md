@@ -15,7 +15,7 @@ fonts:
 
 <div class="flex h-full justify-center items-center">
     <h1 className="text-center relaxed max-w-lg">
-      Why do need a Personal Brand anyways? 🤔
+      Why do we need a Personal Brand anyways? 🤔
     </h1>
 </div>
 
@@ -23,7 +23,7 @@ fonts:
 
 <div class="flex h-full justify-center items-center">
     <h1 className="text-center relaxed max-w-lg">
-      So how do we do that, huh?
+      So how can we do that, huh?
     </h1>
 </div>
 
@@ -47,7 +47,7 @@ fonts:
 
 <div class="flex h-full justify-center items-center">
     <h1 className="text-center relaxed max-w-lg">
-      Think of yourself as a <em>fancy</em> product. 💅
+      Think of yourself as a <em>fancy</em> product 💅
     </h1>
 </div>
 
@@ -63,7 +63,7 @@ fonts:
 
 <div class="flex h-full justify-center items-center">
     <h1 className="text-center relaxed max-w-lg">
-      Personal marketing is constrained. 🥳
+      Personal marketing is constrained 🥳
     </h1>
 </div>
 
@@ -71,9 +71,11 @@ fonts:
 
 <div class="flex h-full justify-center items-center">
     <h1 className="text-center relaxed max-w-lg">
-      Real talk.
+      Real talk
     </h1>
 </div>
+
+> Nobody can compete with you at being you.
 
 ---
 
@@ -150,6 +152,8 @@ fonts:
 <div class="flex h-full justify-center items-center">
     <h1 className="text-center relaxed max-w-lg">
       7) Consistency
+      <br><br>
+      <strong>Quality > Quantity</strong>
     </h1>
 </div>
 
@@ -166,6 +170,10 @@ fonts:
 <div class="flex h-full justify-center items-center">
     <h1 className="text-center relaxed max-w-lg">
       Pick a domain
+      <img
+        class="text-center w-max-95 pb-5"
+        src="/sli3.png"
+      />
     </h1>
 </div>
 
@@ -187,18 +195,27 @@ fonts:
 
 ---
 
-# More tips
+# Two more important tips
 
-- Learn in public
-- Market yourself in public
-- Market yourself at work
-- Things that do not matter
-- Be good at SEO
+- Learn in public - [Shawn Wang's community](https://www.swyx.io/)
+
+  > https://www.swyx.io/
+
+- Be good at SEO - [Monica Lent's SEO for devs community](https://seofordevs.com/)
+  > https://seofordevs.com/
 
 ---
 
 <div class="flex h-full justify-center items-center">
     <h1 className="text-center relaxed max-w-lg">
       Questions ❓
+    </h1>
+</div>
+
+---
+
+<div class="flex h-full justify-center items-center">
+    <h1 className="text-center relaxed max-w-lg">
+      Thanks 🙏
     </h1>
 </div>
