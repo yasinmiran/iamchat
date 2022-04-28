@@ -71,11 +71,9 @@ fonts:
 
 <div class="flex h-full justify-center items-center">
     <h1 className="text-center relaxed max-w-lg">
-      Real talk
+      Nobody can compete with you at being you.
     </h1>
 </div>
-
-> Nobody can compete with you at being you.
 
 ---
 
@@ -197,12 +195,11 @@ fonts:
 
 # Two more important tips
 
-- Learn in public - [Shawn Wang's community](https://www.swyx.io/)
+- Learn in public - [Shawn Wang's community](https://www.swyx.io/)<br />
+  https://www.swyx.io/
 
-  > https://www.swyx.io/
-
-- Be good at SEO - [Monica Lent's SEO for devs community](https://seofordevs.com/)
-  > https://seofordevs.com/
+- Be good at SEO - [Monica Lent's SEO for devs community](https://seofordevs.com/)<br />
+  https://seofordevs.com/
 
 ---
 
@@ -216,6 +213,6 @@ fonts:
 
 <div class="flex h-full justify-center items-center">
     <h1 className="text-center relaxed max-w-lg">
-      Thanks 🙏
+      Thanks
     </h1>
 </div>
