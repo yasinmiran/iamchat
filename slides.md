@@ -6,7 +6,7 @@ lineNumbers: false
 drawings:
   persist: false
 fonts:
-  sans: "Karla"
+  sans: "DM Sans"
 ---
 
 # Improving your personal branding as a developer
